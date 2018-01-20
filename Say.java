@@ -22,5 +22,6 @@ public class Say{
 			System.out.print(args[i]+" ");
 		}
 		System.out.println();
+		System.out.println();
 	}
 }
